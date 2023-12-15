@@ -9,8 +9,23 @@
 <li>E - less 40</li>
 </ul>
 
+<h2>Set-Up Instructions</h2>
+<ul>
+<li>Git clone from (https://github.com/Bashu-011/Week1-CodeChallenge.git)
+ </li>
+<li>cd into the cloned directory</li>
+<li>Download the necessary dependancies</li>
+<li>Work with the .js file</li>
+</ul>
+
 <h2>Executing the project</h2>
 <ul>
 <li>Make sure you are in the Week1-CodeChallenge</li>
 <li>Run node main.js</li>
 </ul>
+
+<h2>Author</h2>
+<p>Sydney Mukisira</p>
+
+# License
+This project is licensed by MIT and is free for use by anyone.
