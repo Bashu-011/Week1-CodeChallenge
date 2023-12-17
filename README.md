@@ -25,6 +25,12 @@
 <li>Run node main.js</li>
 </ul>
 
+<h1>Challenge 2: Speed Detector (Toy Problem)</h1>
+<p>This is a program that takes the speed of a car as input e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.</p>
+<p>The code is in the license.js file.</p>
+<h2>Executing the file</h2>
+<p>Ensure you are in the correct directory. Run the code using node license.js file. It will ask you for an input and you will give it one for the code to execute.</p>
+
 <h2>Author</h2>
 <p>Sydney Mukisira</p>
 
