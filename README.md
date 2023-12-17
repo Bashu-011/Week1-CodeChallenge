@@ -8,6 +8,7 @@
 <li>D - 40 to 49</li>
 <li>E - less 40</li>
 </ul>
+<p>The code should also print out an errror message incase the user gives an incorrect input</p>
 
 <h2>Set-Up Instructions</h2>
 <ul>

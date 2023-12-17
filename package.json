@@ -1,0 +1,14 @@
+{
+  "name": "week1-codechallenge",
+  "version": "1.0.0",
+  "description": "<h1>Student Grade Generator (Toy Problem)</h1> <p> This is a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond to the correct grade, as shown below:</p> <ul> <li>A > 79</li> <li>B - 60 to 79</li> <li>C -  59 to 49</li> <li>D - 40 to 49</li> <li>E - less 40</li> </ul>",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
