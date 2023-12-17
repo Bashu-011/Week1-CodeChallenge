@@ -30,6 +30,10 @@
 <p>The code is in the license.js file.</p>
 <h2>Executing the file</h2>
 <p>Ensure you are in the correct directory. Run the code using node license.js file. It will ask you for an input and you will give it one for the code to execute.</p>
+<h1>Challenge 3: Net Salary Calculator (Toy Problem)</h1>
+<p>This is a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits then making the necessary deductions such as NHIF, housing levy, PAYE and NSSF. The code is in the paye.js file.</p>
+<h2>Executing the file</h2>
+Ensure you are in the correct directory. Run the code using node paye.js file. It will ask you for a salary input and you will give it one for the code to execute.
 
 <h2>Author</h2>
 <p>Sydney Mukisira</p>
